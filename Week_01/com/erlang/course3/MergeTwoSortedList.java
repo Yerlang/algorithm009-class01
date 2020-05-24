@@ -1,4 +1,4 @@
-package com.erlang;
+package com.erlang.course3;
 
 import com.erlang.comon.ListNode;
 import com.erlang.comon.PrintlnUtil;
