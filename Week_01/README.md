@@ -1,10 +1,12 @@
-学习笔记
+### 学习笔记
 
-Queue(JDK 1.8) 源码分析：
-`
+#### Queue(JDK 1.8) 源码分析：
+
+
+```java
 import java.util.Collection;
 import java.util.LinkedList;
-import java.util.NoSuchElementException;
+import java.util.NoSuchElementExcepti
 import java.util.PriorityQueue;
 
 
@@ -106,14 +108,12 @@ public interface Queue<E> extends Collection<E> {
     E peek();
 }
 
-`
-
-PriorityQueue(JDK 1.8)  源码分析
+```
+#### PriorityQueue(JDK 1.8)  源码分析
 
 本文只是对优先队列的操作方法进行了分析，并没有对迭代器部分进行分析
-`
-package com.erlang.course4;
 
+```java
 
 import java.util.*;
 import java.util.Queue;
@@ -1006,4 +1006,4 @@ public class PriorityQueue<E> extends AbstractQueue<E>
     }
 }
 
-`
+```
