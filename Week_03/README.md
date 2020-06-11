@@ -1,5 +1,5 @@
 ## 第七课课后习题：
-[https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/][二叉树的最近公共祖先]
+[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 ```java
 class Solution {
 
@@ -20,7 +20,7 @@ class Solution {
 }
 ```
 
-[https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal][从前序与中序遍历序列构造二叉树]
+[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 ```java
 class Solution {
 
@@ -58,7 +58,7 @@ class Solution {
 }
 ```
 
-[https://leetcode-cn.com/problems/combinations/][组合]
+[组合](https://leetcode-cn.com/problems/combinations/)
 ```java
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
@@ -83,7 +83,7 @@ class Solution {
     }
 }
 ```
-[https://leetcode-cn.com/problems/permutations/][全排列]
+[全排列](https://leetcode-cn.com/problems/permutations/)
 ```java
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
@@ -109,7 +109,7 @@ class Solution {
 }
 ```
 
-[https://leetcode-cn.com/problems/permutations-ii/][全排列 II]
+[全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
 ```java
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
@@ -142,7 +142,7 @@ class Solution {
 ```
 
 ## 第八课课后习题：
-[https://leetcode-cn.com/problems/majority-element/description/][多数元素]
+[多数元素](https://leetcode-cn.com/problems/majority-element/description/)
 ````java
 class Solution {
     public int majorityElement1(int[] nums) {
@@ -170,7 +170,7 @@ class Solution {
 }
 ````
 
-[https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/][电话号码的字母组合] 
+[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 ```java
 class Solution {
     
@@ -200,7 +200,7 @@ class Solution {
 }
 ```
 
-[https://leetcode-cn.com/problems/n-queens/][N皇后] 
+[N皇后](https://leetcode-cn.com/problems/n-queens/)
 ```java
 class Solution {
     public List<List<String>> solveNQueens(int n) {
