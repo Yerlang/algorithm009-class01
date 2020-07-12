@@ -157,7 +157,7 @@ class Solution {
 }
 ```
 ### 学习笔记
-##### 冒泡排序
+##### 排序
 ```java
 /**
  * @description:
